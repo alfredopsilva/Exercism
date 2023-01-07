@@ -46,21 +46,24 @@ public class Blackjack {
     }
 
     public String largeHand(boolean isBlackjack, int dealerScore) {
-        if(isBlackjack && dealerScore != 11 || dealerScore != 10)
+        if(isBlackjack) {
+            if (dealerScore == 11 || dealerScore == 10)
+                return "S";
             return "W";
-        else if(dealerScore == 11 || dealerScore == 10)
-            return "S";
-        else if(!isBlackjack)
-            return "P";
-
+        }
         throw new UnsupportedOperationException("Please implement the Blackjack.largeHand method");
     }
 
     public String smallHand(int handScore, int dealerScore) {
-        if(handScore >= 17 || handScore > 12 && handScore < 16)
+        if(handScore >= 17)
             return "S";
-        else if(handScore >= 11 || ((handScore > 12 && handScore < 16) && dealerScore >= 7))
+        else if(handScore <= 11)
             return "H";
+        else if(handScore >= 12 && handScore <= 16){
+            if(dealerScore >= 7)
+                return "H";
+            return "S";
+        }
 
         throw new UnsupportedOperationException("Please implement the Blackjack.smallHand method");
     }
@@ -73,7 +76,11 @@ public class Blackjack {
         int dealerScore = parseCard(dealerCard);
 
         if (20 < handScore) {
+            if(card1.equals("ace") && card2.equals("ace"))
+                return "P";
+
             return largeHand(isBlackjack(card1, card2), dealerScore);
+
         } else {
             return smallHand(handScore, dealerScore);
         }
