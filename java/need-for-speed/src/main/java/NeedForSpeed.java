@@ -56,7 +56,7 @@ class RaceTrack {
 
     public boolean tryFinishTrack(NeedForSpeed car) {
 
-        if((distance / car.getSpeed()) * car.getBatteryDrain() <= 100)
+        if((double)((double)distance / car.getSpeed()) * car.getBatteryDrain() <= 100)
             return true;
         return false;
 
