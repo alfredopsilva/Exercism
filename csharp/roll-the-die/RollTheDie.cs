@@ -2,13 +2,16 @@ using System;
 
 public class Player
 {
+    private Random numberGenerator;
     public int RollDie()
     {
-        throw new NotImplementedException("Please implement the Player.RollDie() method");
+        numberGenerator = new Random();
+        return numberGenerator.Next(1, 18);
     }
 
     public double GenerateSpellStrength()
     {
-        throw new NotImplementedException("Please implement the Player.GenerateSpellStrength() method");
+        numberGenerator = new Random();
+        return numberGenerator.NextDouble() * 100;
     }
 }
