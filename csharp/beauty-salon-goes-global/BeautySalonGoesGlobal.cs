@@ -1,4 +1,7 @@
 using System;
+using System.Globalization;
+using System.Runtime.InteropServices;
+using System.Security.Cryptography;
 
 
 public enum Location
@@ -24,8 +27,14 @@ public static class Appointment
 
     public static DateTime Schedule(string appointmentDateDescription, Location location)
     {
-        string timeZoneId = GetTimeZoneId(location);;
+        // Getting TimeZone ID as a String and Creating a TimeZoneInfo
+        string timeZoneId = GetTimeZoneId(location);
+        var timezone = TimeZoneInfo.FindSystemTimeZoneById(timeZoneId);
+        
+        // Utc DateTime to be returned
         DateTime utcDate;
+        
+        // The appointments are made in localtime, so for that we need to try to parse.
         DateTime scheduledDate;
 
         if (DateTime.TryParse(appointmentDateDescription, out DateTime dateReturn))
@@ -35,7 +44,7 @@ public static class Appointment
             throw new ArgumentException("The formatted string provide is not accepted.");
         }
         
-        utcDate = TimeZoneInfo.ConvertTimeToUtc(scheduledDate, TimeZoneInfo.Local);
+        utcDate = TimeZoneInfo.ConvertTimeToUtc(scheduledDate, timezone);
 
         return utcDate;
     }
@@ -74,7 +83,33 @@ public static class Appointment
 
     public static DateTime NormalizeDateTime(string dtStr, Location location)
     {
+        string cultureLocation;
+        if (location == Location.London)
+            cultureLocation = "en-GB";
+        else if (location == Location.Paris)
+            cultureLocation = "fr-FR";
+        else if (location == Location.NewYork)
+            cultureLocation = "en-US";
+        else
+        {
+            throw new ArgumentException("We don't have salons in this loWe don't have salons in this location, please select New York, London Or Paris.");
+        }
         
+        var culture = new CultureInfo(cultureLocation);
+
+        DateTime scheduleDate;
+        
+        if (DateTime.TryParse(dtStr, culture, out DateTime correctDate))
+        {
+            scheduleDate = correctDate;
+        }
+        else
+        {
+            scheduleDate = new DateTime(1, 1, 1, 0, 0, 0);
+        }
+
+        return scheduleDate;
+
     }
 
     private static string GetTimeZoneId(Location location)
@@ -82,15 +117,31 @@ public static class Appointment
 
         string timeZoneId;
 
-        if (location == Location.NewYork)
-            timeZoneId = "New York - America/New_York";
-        else if (location == Location.London)
-            timeZoneId = "London - Europe/London";
-        else if (location == Location.Paris)
-            timeZoneId = "Paris - Europe/Paris";
+        if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+        {
+            if (location == Location.NewYork)
+                timeZoneId = "Eastern Standard Time";
+            else if (location == Location.London)
+                timeZoneId = "GMT Standard Time";
+            else if (location == Location.Paris)
+                timeZoneId = "W. Europe Standard Time";
+            else
+            {
+                throw new ArgumentException("We don't have salons in this loWe don't have salons in this location, please select New York, London Or Paris.");
+            }
+        }
         else
         {
-            throw new ArgumentException("We don't have salons in this location, please select New York, London Or Paris.");
+            if (location == Location.NewYork)
+                timeZoneId = "America/New_York";
+            else if (location == Location.London)
+                timeZoneId = "Europe/London";
+            else if (location == Location.Paris)
+                timeZoneId = "Europe/Paris";
+            else
+            {
+                throw new ArgumentException("We don't have salons in this loWe don't have salons in this location, please select New York, London Or Paris.");
+            }
         }
 
         return timeZoneId;
