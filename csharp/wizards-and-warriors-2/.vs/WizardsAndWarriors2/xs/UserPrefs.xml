@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D94E70AE-F35B-4424-8107-75220BE3A639}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WizardsAndWarriors2.cs">
+    <Files>
+      <File FileName="WizardsAndWarriors2.cs" Line="46" Column="1" />
+      <File FileName="WizardsAndWarriors2Tests.cs" Line="79" Column="191" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WizardsAndWarriors2" expanded="True">
+            <Node name="WizardsAndWarriors2" expanded="True">
+              <Node name="WizardsAndWarriors2.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WizardsAndWarriors2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
