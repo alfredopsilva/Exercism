@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{02C9A72D-A7C0-44A2-8D2B-0C4351263F93}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SpaceAge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceAge.cs">
+    <Files>
+      <File FileName="README.md" Line="8" Column="49" />
+      <File FileName="SpaceAge.cs" Line="14" Column="26" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpaceAge" expanded="True">
+            <Node name="SpaceAge" expanded="True">
+              <Node name="SpaceAge.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

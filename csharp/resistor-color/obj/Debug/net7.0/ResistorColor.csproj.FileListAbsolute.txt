@@ -1,0 +1,5 @@
+/Users/alfredoparreira/Exercism/csharp/resistor-color/obj/Debug/net7.0/ResistorColor.csproj.AssemblyReference.cache
+/Users/alfredoparreira/Exercism/csharp/resistor-color/obj/Debug/net7.0/ResistorColor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredoparreira/Exercism/csharp/resistor-color/obj/Debug/net7.0/ResistorColor.AssemblyInfoInputs.cache
+/Users/alfredoparreira/Exercism/csharp/resistor-color/obj/Debug/net7.0/ResistorColor.AssemblyInfo.cs
+/Users/alfredoparreira/Exercism/csharp/resistor-color/obj/Debug/net7.0/ResistorColor.csproj.CoreCompileInputs.cache
