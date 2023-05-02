@@ -1,18 +1,20 @@
 public class CarsAssemble {
 
     public double productionRatePerHour(int speed) {
-        if(speed <= 4)
-            return speed * 221;
-        else if(speed >= 5 && speed <=8)
-            return speed * 221 * .9;
+        double sucessRate = 0;
+        if(speed >= 1 && speed <= 4)
+            sucessRate = 1;
+        else if(speed >= 5 && speed <= 8)
+            sucessRate = .9;
         else if(speed == 9)
-            return speed * 221 * .8;
+            sucessRate = .8;
         else
-            return speed * 221 * .77;
+            sucessRate = .77;
+
+        return (221 * speed ) * sucessRate;
     }
 
     public int workingItemsPerMinute(int speed) {
-
-        return (int)(productionRatePerHour(speed) / 60);
+        return (int)productionRatePerHour(speed) / 60;
     }
 }

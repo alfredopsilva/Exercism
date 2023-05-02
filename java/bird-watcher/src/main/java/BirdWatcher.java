@@ -1,62 +1,60 @@
 
 class BirdWatcher {
-    private int[] birdsPerDay;
+    private final int[] birdsPerDay;
+    private int arrayLength ;
 
     public BirdWatcher(int[] birdsPerDay) {
         this.birdsPerDay = birdsPerDay.clone();
+        arrayLength = birdsPerDay.length;
     }
 
     public int[] getLastWeek() {
-       birdsPerDay = new int[]{0, 2, 5, 3, 7, 8, 4};
-       return birdsPerDay;
+        int[] count = {0,2,5,3,7,8,4};
+        return count;
     }
 
     public int getToday() {
-        if(birdsPerDay.length == 0)
-            return 0;
-        return birdsPerDay[birdsPerDay.length - 1];
-
+        return birdsPerDay[arrayLength -1];
     }
 
     public void incrementTodaysCount() {
-        birdsPerDay[birdsPerDay.length - 1] = getToday() + 1;
-
+        birdsPerDay[arrayLength - 1] += 1;
     }
 
     public boolean hasDayWithoutBirds() {
-        for(var i = 0; i < birdsPerDay.length; i++)
-        {
+
+        boolean flag = false;
+
+        for(var i = 0; i < arrayLength; i++){
             if(birdsPerDay[i] == 0)
-                return true;
+                flag = true;
         }
-        return false;
+        return flag;
     }
 
     public int getCountForFirstDays(int numberOfDays) {
-        int countOfBirds = 0;
-        if(numberOfDays <= birdsPerDay.length ) {
-            for (var i = 0; i < numberOfDays; i++) {
-                countOfBirds += birdsPerDay[i];
-            }
+        int counter = 0;
+
+        //Check if the value passesd is greater than a week, if it is assigned a value corresponding to one week.
+        if(numberOfDays > 7){
+            numberOfDays = 7;
         }
-        else if(numberOfDays > birdsPerDay.length)
-        {
-            for (var i = 0; i < birdsPerDay.length; i++) {
-                countOfBirds += birdsPerDay[i];
-            }
+
+        for(var i = 0; i < numberOfDays; i++){
+            counter += birdsPerDay[i];
         }
-        return countOfBirds;
+
+        return counter;
     }
 
     public int getBusyDays() {
-        int countOfDays = 0;
-        for(var i = 0; i < birdsPerDay.length ; i++)
-        {
+        int counter = 0;
+
+        for(var i = 0; i < arrayLength; i++){
             if(birdsPerDay[i] >= 5)
-            {
-                countOfDays++;
-            }
+                counter++;
         }
-        return countOfDays;
+
+        return counter;
     }
 }

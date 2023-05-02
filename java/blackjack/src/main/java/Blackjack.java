@@ -1,72 +1,97 @@
 public class Blackjack {
 
-    public int parseCard(String card)
-    {
-        if (card.equals("ace"))
-        {
-            return 11;
+    public int parseCard(String card) {
 
-        } else if (card.equals("two"))
-        {
-            return 2;
-        } else if (card.equals("three"))
-        {
-            return 3;
-        } else if (card.equals("four"))
-        {
-            return 4;
-        } else if (card.equals("five"))
-        {
-            return 5;
-        } else if (card.equals("six"))
-        {
-            return 6;
-        } else if (card.equals("seven"))
-        {
-            return 7;
-        } else if (card.equals("eight"))
-        {
-            return 8;
-        } else if (card.equals("nine"))
-        {
-            return 9;
-        }
-        else if(card.equals("ten") || card.equals("jack") || card.equals("queen") || card.equals("king"))
-        {
-            return 10;
-        }
-        else
-            return 0;
+        int cardNumber;
 
+        switch (card)
+        {
+            case "ace":
+                cardNumber = 11;
+                break;
+            case "two":
+                cardNumber = 2;
+                break;
+            case "three":
+                cardNumber = 3;
+                break;
+            case "four":
+                cardNumber = 4;
+                break;
+            case "five":
+                cardNumber = 5;
+                break;
+            case "six":
+                cardNumber = 6;
+                break;
+            case "seven":
+                cardNumber = 7;
+                break;
+            case "eight":
+                cardNumber = 8;
+                break;
+            case "nine":
+                cardNumber = 9;
+                break;
+            case "ten":
+            case "jack":
+            case "queen":
+            case "king":
+                cardNumber = 10;
+                break;
+            default:
+                cardNumber = 0;
+                break;
+        }
+
+        return cardNumber;
     }
 
     public boolean isBlackjack(String card1, String card2) {
-        return (parseCard(card1) + parseCard(card2)) == 21;
 
+        return parseCard(card1) + parseCard(card2) == 21;
     }
 
     public String largeHand(boolean isBlackjack, int dealerScore) {
-        if(isBlackjack) {
-            if (dealerScore == 11 || dealerScore == 10)
-                return "S";
-            return "W";
-        }
-        throw new UnsupportedOperationException("Please implement the Blackjack.largeHand method");
+
+        String move = "";
+
+        if(isBlackjack)
+        {
+            move = "W";
+            if(dealerScore == 10 || dealerScore == 11){
+                move = "S";
+            }
+
+       }
+
+        return move;
     }
 
     public String smallHand(int handScore, int dealerScore) {
+        String move = "";
+
         if(handScore >= 17)
-            return "S";
-        else if(handScore <= 11)
-            return "H";
-        else if(handScore >= 12 && handScore <= 16){
+            move = "S";
+
+        if(handScore <= 11)
+            move = "H";
+
+        if(handScore >= 12 && handScore <= 16)
+        {
+            move = "S";
+
             if(dealerScore >= 7)
-                return "H";
-            return "S";
+            {
+                move = "H";
+            }
+
+
         }
 
-        throw new UnsupportedOperationException("Please implement the Blackjack.smallHand method");
+        return move;
     }
+
 
     // FirstTurn returns the semi-optimal decision for the first turn, given the cards of the player and the dealer.
     // This function is already implemented and does not need to be edited. It pulls the other functions together in a
@@ -75,12 +100,11 @@ public class Blackjack {
         int handScore = parseCard(card1) + parseCard(card2);
         int dealerScore = parseCard(dealerCard);
 
-        if (20 < handScore) {
-            if(card1.equals("ace") && card2.equals("ace"))
-                return "P";
-
+        if(card1 == "ace" && card2 == "ace"){
+            return "P";
+        }
+        else if (20 < handScore) {
             return largeHand(isBlackjack(card1, card2), dealerScore);
-
         } else {
             return smallHand(handScore, dealerScore);
         }

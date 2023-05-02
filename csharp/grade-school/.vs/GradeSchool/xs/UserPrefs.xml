@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{699ABB9E-7343-4AF5-98E5-616EB874BF75}|Default">
+  <MonoDevelop.Ide.ItemProperties.GradeSchool PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GradeSchool.cs">
+    <Files>
+      <File FileName="GradeSchool.cs" Line="8" Column="83" />
+      <File FileName="README.md" Line="25" Column="125" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GradeSchool" expanded="True">
+            <Node name="GradeSchool" expanded="True">
+              <Node name="GradeSchool.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

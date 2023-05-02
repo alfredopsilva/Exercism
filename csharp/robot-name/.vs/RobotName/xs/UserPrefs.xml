@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B4F0B966-7382-4455-ABC4-E46CA5553D09}|Default">
+  <MonoDevelop.Ide.ItemProperties.RobotName PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RobotName.cs">
+    <Files>
+      <File FileName="RobotName.cs" Line="41" Column="1" />
+      <File FileName="RobotNameTests.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RobotName" expanded="True">
+            <Node name="RobotName" expanded="True">
+              <Node name="RobotName.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

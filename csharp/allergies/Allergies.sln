@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Allergies", "Allergies.csproj", "{B50516D2-0119-4631-A2DB-BEF2574D7521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50516D2-0119-4631-A2DB-BEF2574D7521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50516D2-0119-4631-A2DB-BEF2574D7521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50516D2-0119-4631-A2DB-BEF2574D7521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50516D2-0119-4631-A2DB-BEF2574D7521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB081C60-0121-4012-8A34-6617C75C9ED6}
+	EndGlobalSection
+EndGlobal

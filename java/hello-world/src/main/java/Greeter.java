@@ -1,12 +1,11 @@
 class Greeter {
 
-    public void main(String[] args) {
-
+    public static void main(String[] args) {
         getGreeting();
     }
-    String  getGreeting() {
+    static String  getGreeting() {
         return "Hello, World!";
-
     }
+
 
 }

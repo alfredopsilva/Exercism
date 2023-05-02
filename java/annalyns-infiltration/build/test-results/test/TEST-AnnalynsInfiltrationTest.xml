@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AnnalynsInfiltrationTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2023-01-06T22:16:57" hostname="ALFREDOXPS" time="0.048">
+<testsuite name="AnnalynsInfiltrationTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2023-05-01T13:09:14" hostname="Alfredos-MacBook-Pro.local" time="0.026">
   <properties/>
-  <testcase name="can_spy_if_everyone_but_prisoner_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.042"/>
+  <testcase name="can_spy_if_everyone_but_prisoner_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.023"/>
   <testcase name="cannot_release_prisoner_if_only_archer_is_asleep_and_pet_dog_is_absent" classname="AnnalynsInfiltrationTest" time="0.0"/>
   <testcase name="cannot_signal_prisoner_if_archer_is_awake_and_prisoner_is_sleeping" classname="AnnalynsInfiltrationTest" time="0.0"/>
   <testcase name="cannot_signal_prisoner_if_archer_and_prisoner_are_both_sleeping" classname="AnnalynsInfiltrationTest" time="0.0"/>

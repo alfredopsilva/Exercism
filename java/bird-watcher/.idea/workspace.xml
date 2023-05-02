@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="460d3215-f492-4d88-98cb-3cc5b3d5da35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../annalyns-infiltration/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csharp/high-scores/HighScores.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/high-scores/HighScores.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csharp/high-scores/HighScoresTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/high-scores/HighScoresTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csharp/high-scores/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/high-scores/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste 2/Teste 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste 2/src/Grains.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.exercism/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.exercism/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.exercism/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.exercism/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/build/classes/java/main/AnnalynsInfiltration.class" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/build/classes/java/main/AnnalynsInfiltration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/build/classes/java/test/AnnalynsInfiltrationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/build/classes/java/test/AnnalynsInfiltrationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/build/reports/tests/test/classes/AnnalynsInfiltrationTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/build/reports/tests/test/classes/AnnalynsInfiltrationTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/build/test-results/test/TEST-AnnalynsInfiltrationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/build/test-results/test/TEST-AnnalynsInfiltrationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/src/main/java/AnnalynsInfiltration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/src/main/java/AnnalynsInfiltration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/classes/java/main/ArmstrongNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/classes/java/test/ArmstrongNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/reports/tests/test/classes/ArmstrongNumbersTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/test-results/test/TEST-ArmstrongNumbersTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/src/main/java/ArmstrongNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/src/test/java/ArmstrongNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/src/main/java/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/src/main/java/BankAccountActionInvalidException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/src/test/java/BankAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.exercism/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.exercism/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.exercism/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/.exercism/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/BirdWatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/BirdWatcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BirdWatcherTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BirdWatcherTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/BirdWatcherTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/BirdWatcherTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-BirdWatcherTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-BirdWatcherTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BirdWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BirdWatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BirdWatcherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BirdWatcherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.exercism/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.exercism/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.exercism/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.exercism/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/build/classes/java/main/Blackjack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/build/classes/java/main/Blackjack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/build/classes/java/test/BlackjackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/build/classes/java/test/BlackjackTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/build/reports/tests/test/classes/BlackjackTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/build/reports/tests/test/classes/BlackjackTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/build/test-results/test/TEST-BlackjackTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/build/test-results/test/TEST-BlackjackTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/src/main/java/Blackjack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/src/main/java/Blackjack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/classes/java/main/CarsAssemble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/classes/java/test/CarsAssembleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/reports/tests/test/classes/CarsAssembleTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/test-results/test/TEST-CarsAssembleTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/src/main/java/CarsAssemble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars-assemble/src/test/java/CarsAssembleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/src/main/java/Darts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../darts/src/test/java/DartsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/classes/java/main/DifferenceOfSquaresCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/classes/java/test/DifferenceOfSquaresCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/reports/tests/test/classes/DifferenceOfSquaresCalculatorTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/test-results/test/TEST-DifferenceOfSquaresCalculatorTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/src/main/java/DifferenceOfSquaresCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/src/test/java/DifferenceOfSquaresCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/classes/java/main/DnDCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/classes/java/test/DnDCharacterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/reports/tests/test/classes/DnDCharacterTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/test-results/test/TEST-DnDCharacterTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/src/main/java/DnDCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dnd-character/src/test/java/DnDCharacterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/classes/java/main/ElonsToyCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/classes/java/test/ElonsToyCarTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/reports/tests/test/classes/ElonsToyCarTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/test-results/test/TEST-ElonsToyCarTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/src/main/java/ElonsToyCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/src/test/java/ElonsToyCarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/classes/java/main/FootballMatchReports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/classes/java/test/FootballMatchReportsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/reports/tests/test/classes/FootballMatchReportsTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/test-results/test/TEST-FootballMatchReportsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/src/main/java/FootballMatchReports.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/src/test/java/FootballMatchReportsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/classes/java/main/Gigasecond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/classes/java/test/GigasecondTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/reports/tests/test/classes/GigasecondTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/test-results/test/TEST-GigasecondTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/src/main/java/Gigasecond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/src/test/java/GigasecondTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/classes/java/main/Grains.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/classes/java/test/GrainsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/reports/tests/test/classes/GrainsTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/test-results/test/TEST-GrainsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/src/main/java/Grains.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/src/test/java/GrainsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.exercism/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.exercism/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.exercism/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.exercism/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/build/classes/java/main/Greeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/build/classes/java/main/Greeter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/build/classes/java/test/GreeterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/build/classes/java/test/GreeterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/classes/GreeterTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/classes/GreeterTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/build/test-results/test/TEST-GreeterTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/build/test-results/test/TEST-GreeterTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/src/main/java/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/src/main/java/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/classes/java/main/LanguageList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/classes/java/test/LanguageListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/reports/tests/test/classes/LanguageListTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/test-results/test/TEST-LanguageListTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/src/main/java/LanguageList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/src/test/java/LanguageListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.exercism/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.exercism/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.exercism/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.exercism/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/classes/java/main/Lasagna.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/build/classes/java/main/Lasagna.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/classes/java/main/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/classes/java/test/LasagnaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/build/classes/java/test/LasagnaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/classes/java/test/utils/Lasagna.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/build/classes/java/test/utils/Lasagna.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/classes/java/test/utils/ReflectionProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/build/classes/java/test/utils/ReflectionProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/classes/LasagnaTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/classes/LasagnaTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/classes/utils.Lasagna.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/classes/utils.ReflectionProxy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/reports/tests/test/packages/utils.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/test-results/test/TEST-LasagnaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/build/test-results/test/TEST-LasagnaTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/test-results/test/TEST-utils.Lasagna.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/test-results/test/TEST-utils.ReflectionProxy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/src/main/java/Lasagna.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/src/main/java/Lasagna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/classes/java/main/Leap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/classes/java/test/LeapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/reports/tests/test/classes/LeapTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/test-results/test/TEST-LeapTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/src/main/java/Leap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/src/test/java/LeapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/classes/java/main/LogLevels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/classes/java/test/LogLevelsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/reports/tests/test/classes/LogLevelsTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/test-results/test/TEST-LogLevelsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/src/main/java/LogLevels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/src/test/java/LogLevelsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/src/main/java/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/src/test/java/MatrixTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/classes/java/main/NeedForSpeed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/classes/java/main/RaceTrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/classes/java/test/NeedForSpeedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/reports/tests/test/classes/NeedForSpeedTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/test-results/test/TEST-NeedForSpeedTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/src/main/java/NeedForSpeed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/src/test/java/NeedForSpeedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/classes/java/main/RaindropConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/classes/java/test/RaindropConverterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/classes/RaindropConverterTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/test-results/test/TEST-RaindropConverterTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/src/main/java/RaindropConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/src/test/java/RaindropConverterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/classes/java/main/ExperimentalRemoteControlCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/classes/java/main/ProductionRemoteControlCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/classes/java/main/RemoteControlCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/classes/java/main/TestTrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/classes/java/test/RemoteControlCarTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/reports/tests/test/classes/RemoteControlCarTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/test-results/test/TEST-RemoteControlCarTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/src/main/java/ExperimentalRemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/src/main/java/ProductionRemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/src/main/java/RemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/src/main/java/TestTrack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/src/test/java/RemoteControlCarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/src/main/java/ResistorColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/src/test/java/ResistorColorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/src/main/java/RnaTranscription.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/src/test/java/RnaTranscriptionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/classes/java/main/SalaryCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/classes/java/test/SalaryCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/reports/tests/test/classes/SalaryCalculatorTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/test-results/test/TEST-SalaryCalculatorTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/src/main/java/SalaryCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/src/test/java/SalaryCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../say/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../say/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../say/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../say/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../say/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../say/src/main/java/Say.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../say/src/test/java/SayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/classes/java/main/Scrabble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/classes/java/test/ScrabbleScoreTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/classes/ScrabbleScoreTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/TEST-ScrabbleScoreTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/src/main/java/Scrabble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/src/test/java/ScrabbleScoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/src/main/java/HandshakeCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/src/main/java/Signal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret-handshake/src/test/java/HandshakeCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/classes/java/main/SpaceAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/classes/java/test/SpaceAgeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/reports/tests/test/classes/SpaceAgeTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/test-results/test/TEST-SpaceAgeTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/src/main/java/SpaceAge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/src/test/java/SpaceAgeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/classes/java/main/SqueakyClean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/classes/java/test/SqueakyCleanTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/classes/SqueakyCleanTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/test-results/test/TEST-SqueakyCleanTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/src/main/java/SqueakyClean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/src/test/java/SqueakyCleanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.exercism/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.exercism/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.exercism/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.exercism/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/build/classes/java/main/Twofer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/build/classes/java/main/Twofer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/build/classes/java/test/TwoferTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/build/classes/java/test/TwoferTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/classes/TwoferTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/classes/TwoferTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/build/test-results/test/TEST-TwoferTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/build/test-results/test/TEST-TwoferTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/src/main/java/Twofer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/src/main/java/Twofer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PEpPfRrNgYT9vWDve7n7aCTmpM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/alfredoparreira/Exercism/java/bird-watcher",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="460d3215-f492-4d88-98cb-3cc5b3d5da35" name="Changes" comment="" />
+      <created>1683032072302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683032072302</updated>
+      <workItem from="1683032073380" duration="1185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
