@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 public class FacialFeatures
 {
@@ -28,6 +29,12 @@ public class Identity
 
 public class Authenticator
 {
+    private Identity admin {get;}
+    private Dictionary<String, Identity> user = new Dictionary<string, Identity>(); 
+    public Authenticator(){
+        Identity admin = new Identity("admin@exerc.ism", new FacialFeatures("green", 0.9m));
+    }
+
     public static bool AreSameFace(FacialFeatures faceA, FacialFeatures faceB)
     {
         return Object.Equals(faceA, faceB);
@@ -35,17 +42,20 @@ public class Authenticator
 
     public bool IsAdmin(Identity identity)
     {
-        throw new NotImplementedException("Please implement the Authenticator.IsAdmin() method");
+        return Object.Equals(admin, identity);
     }
 
     public bool Register(Identity identity)
     {
-        throw new NotImplementedException("Please implement the Authenticator.Register() method");
+        if(identity == null || user.ContainsKey(identity.Email)) return false; 
+        
+        user.Add(identity.Email, identity); 
+        return true; 
     }
 
     public bool IsRegistered(Identity identity)
     {
-        throw new NotImplementedException("Please implement the Authenticator.IsRegistered() method");
+        return user.ContainsKey(identity.Email);
     }
 
     public static bool AreSameObject(Identity identityA, Identity identityB)
