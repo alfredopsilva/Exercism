@@ -11,7 +11,26 @@ public class FacialFeatures
         EyeColor = eyeColor;
         PhiltrumWidth = philtrumWidth;
     }
-    // TODO: implement equality and GetHashCode() methods
+
+    public override bool Equals(object obj)
+    {
+        //Check if the given object is valid or not. 
+        if(obj == null){
+            return false;
+        } 
+        //Verifying if both objects are the same type.
+        if(this.GetType() != obj.GetType()){
+            return false;
+        }
+        FacialFeatures compare = obj as FacialFeatures;
+
+        return this.EyeColor == compare.EyeColor && this.PhiltrumWidth == compare.PhiltrumWidth;
+    }
+
+    public override int GetHashCode()
+    {
+        return base.GetHashCode();
+    }
 }
 
 public class Identity
@@ -24,7 +43,21 @@ public class Identity
         Email = email;
         FacialFeatures = facialFeatures;
     }
-    // TODO: implement equality and GetHashCode() methods
+
+    public override bool Equals(object obj)
+    {
+        if(obj == null) return false; 
+        if(this.GetType() != obj.GetType()) return false; 
+        Identity compare = obj as Identity; 
+
+        return this.Email == compare.Email && this.FacialFeatures.Equals(compare.FacialFeatures);
+
+    }
+
+    public override int GetHashCode()
+    {
+        return base.GetHashCode();
+    }
 }
 
 public class Authenticator
@@ -32,17 +65,17 @@ public class Authenticator
     private Identity admin {get;}
     private Dictionary<String, Identity> user = new Dictionary<string, Identity>(); 
     public Authenticator(){
-        Identity admin = new Identity("admin@exerc.ism", new FacialFeatures("green", 0.9m));
+        this.admin = new Identity("admin@exerc.ism", new FacialFeatures("green", 0.9m));
     }
 
     public static bool AreSameFace(FacialFeatures faceA, FacialFeatures faceB)
     {
-        return Object.Equals(faceA, faceB);
+        return faceA.Equals(faceB);
     }
 
     public bool IsAdmin(Identity identity)
     {
-        return Object.Equals(admin, identity);
+        return identity.Equals(admin);
     }
 
     public bool Register(Identity identity)
@@ -55,11 +88,13 @@ public class Authenticator
 
     public bool IsRegistered(Identity identity)
     {
-        return user.ContainsKey(identity.Email);
+        Identity check = user[identity.Email];
+        if(check == null) return false; 
+        return check.Equals(identity);
     }
 
     public static bool AreSameObject(Identity identityA, Identity identityB)
     {
-        throw new NotImplementedException("Please implement the Authenticator.AreSameObject() method");
+        return identityA.GetHashCode == identityB.GetHashCode;   
     }
 }
